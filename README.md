@@ -1,3 +1,3 @@
 # travel
 travel
-![ssrt](Img/Screenshot.png) 
+![ssrt](Screenshot.png) 
